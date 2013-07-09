@@ -1,0 +1,57 @@
+belas de guarra dos mundos 
+
+Tabela Efeitos
+	-id
+	-nome
+	-descricao
+	-lv_1
+	-lv_2
+	-lv_3
+	-lv_4
+	-lv_5
+	-lv_6	
+	-lv_7
+	-lv_8
+	-lv_9
+	-lv_10
+	-lv_11
+	-lv_12
+
+Tabela Magias
+	-id
+	-nome
+	-descicao
+	-lv_1
+	-lv_2
+	-lv_3
+	-lv_4
+	-lv_5
+	-lv_6	
+	-lv_7
+	-lv_8
+	-lv_9
+	-lv_10
+	-lv_11
+	-lv_12
+
+Tabela Cartas
+	-id
+	-nome
+	-tipo (criatura[unica,comum],magia[grimorio,pergaminho],artefato[unico,comum])
+	-expancao
+	-raça
+	-classe
+	-nivel
+	-atk
+	-def
+	-mag
+	-res
+	-efeito1
+	-efeito2
+	-efeito3
+	-efeito4
+	-efeito5
+	-efeito6
+	-efeito7
+	-historia
+	-ancora	
